@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-04T20:36:14Z" name="Suite Prueba Selenium Unidad 2" finished-at="2022-10-04T20:38:30Z" duration-ms="136002">
+    <groups>
+    </groups>
+    <test started-at="2022-10-04T20:36:14Z" name="Pruebas regresion" finished-at="2022-10-04T20:38:30Z" duration-ms="136002">
+      <class name="test.CasosDePruebaGoogle">
+        <test-method is-config="true" signature="preparacionTests()[pri:0, instance:test.CasosDePruebaGoogle@57175e74]" started-at="2022-10-04T20:37:21Z" name="preparacionTests" finished-at="2022-10-04T20:37:26Z" duration-ms="5360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method signature="CP001_ObtenerPlanEnLinea_RetomarSolicitud_codigoErroneo()[pri:0, instance:test.CasosDePruebaGoogle@57175e74]" started-at="2022-10-04T20:37:26Z" name="CP001_ObtenerPlanEnLinea_RetomarSolicitud_codigoErroneo" finished-at="2022-10-04T20:38:28Z" duration-ms="61459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_ObtenerPlanEnLinea_RetomarSolicitud_codigoErroneo -->
+        <test-method is-config="true" signature="after()[pri:0, instance:test.CasosDePruebaGoogle@57175e74]" started-at="2022-10-04T20:38:28Z" name="after" finished-at="2022-10-04T20:38:30Z" duration-ms="2411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- test.CasosDePruebaGoogle -->
+      <class name="test.CasosDePruebaFalabella">
+        <test-method is-config="true" signature="preparacionTests()[pri:0, instance:test.CasosDePruebaFalabella@29ba4338]" started-at="2022-10-04T20:36:14Z" name="preparacionTests" finished-at="2022-10-04T20:36:25Z" duration-ms="10697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method signature="CP001_Agregar_Carrito_Compra_audifonos()[pri:0, instance:test.CasosDePruebaFalabella@29ba4338]" started-at="2022-10-04T20:36:25Z" name="CP001_Agregar_Carrito_Compra_audifonos" finished-at="2022-10-04T20:37:21Z" duration-ms="55744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_Agregar_Carrito_Compra_audifonos -->
+        <test-method is-config="true" signature="after()[pri:0, instance:test.CasosDePruebaFalabella@29ba4338]" started-at="2022-10-04T20:37:21Z" name="after" finished-at="2022-10-04T20:37:21Z" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- test.CasosDePruebaFalabella -->
+    </test> <!-- Pruebas regresion -->
+  </suite> <!-- Suite Prueba Selenium Unidad 2 -->
+</testng-results>

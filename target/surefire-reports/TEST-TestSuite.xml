@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="136.537" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\Domingo.Saavedra\ideaProjects\TareaS6\src\main\resources\drivers\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Domingo.Saavedra\IdeaProjects\TareaS6\target\test-classes;C:\Users\Domingo.Saavedra\IdeaProjects\TareaS6\target\classes;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\poi\poi\4.0.1\poi-4.0.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\poi\poi-ooxml\4.0.1\poi-ooxml-4.0.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.0.1\poi-ooxml-schemas-4.0.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\xmlbeans\xmlbeans\3.0.2\xmlbeans-3.0.2.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\github\virtuald\curvesapi\1.05\curvesapi-1.05.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Santiago"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CL"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-16.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Domingo.Saavedra\AppData\Local\Temp\surefire13181729390506655294\surefirebooter4391439084863440834.jar C:\Users\Domingo.Saavedra\AppData\Local\Temp\surefire13181729390506655294 2022-10-04T17-36-13_397-jvmRun1 surefire15160385751930459893tmp surefire_012747251488747682448tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Domingo.Saavedra\IdeaProjects\TareaS6\target\test-classes;C:\Users\Domingo.Saavedra\IdeaProjects\TareaS6\target\classes;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Domingo.Saavedra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\poi\poi\4.0.1\poi-4.0.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\poi\poi-ooxml\4.0.1\poi-ooxml-4.0.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.0.1\poi-ooxml-schemas-4.0.1.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\xmlbeans\xmlbeans\3.0.2\xmlbeans-3.0.2.jar;C:\Users\Domingo.Saavedra\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\Domingo.Saavedra\.m2\repository\com\github\virtuald\curvesapi\1.05\curvesapi-1.05.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Domingo.Saavedra"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-16.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Domingo.Saavedra\IdeaProjects\TareaS6"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Domingo.Saavedra\AppData\Local\Temp\surefire13181729390506655294\surefirebooter4391439084863440834.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.2+7-67"/>
+    <property name="user.name" value="domingo.saavedra"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Domingo.Saavedra\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DOMING~1.SAA\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.2.1"/>
+    <property name="java.version" value="16.0.2"/>
+    <property name="user.dir" value="C:\Users\Domingo.Saavedra\IdeaProjects\TareaS6"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-16.0.2\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Python310\Scripts\;C:\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\apache-maven-3.8.2\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\apache-maven-3.8.2\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\PuTTY\;C:\Users\Domingo.Saavedra\AppData\Local\Microsoft\WindowsApps;C:\Users\Domingo.Saavedra\AppData\Roaming\npm;C:\Users\Domingo.Saavedra\AppData\Local\Yarn\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.2+7-67"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="CP001_Agregar_Carrito_Compra_audifonos" classname="test.CasosDePruebaFalabella" time="55.719">
+    <system-out><![CDATA[Audífonos Earbuds Inalámbricos Wf-C500 Verde
+(1 productos)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 32101
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1664915776.613][WARNING]: This version of ChromeDriver has not been tested with Chrome version 106.
+oct. 04, 2022 5:36:16 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="CP001_ObtenerPlanEnLinea_RetomarSolicitud_codigoErroneo" classname="test.CasosDePruebaGoogle" time="61.457">
+    <system-out><![CDATA[
+Dominios
+help_outline
+Precio
+help_outline
+
+bci.com No disponible
+bci.org No disponible
+bci.net No disponible
+bci.capital 50,00 $ al año
+chevron_right
+bci.financial 50,00 $ al año
+chevron_right
+bci.bargains 30,00 $ al año
+chevron_right
+bci.accountants 120,00 $ al año
+chevron_right
+bancobci.autos 15,00 $ al año
+chevron_right
+bciseguros.autos 15,00 $ al año
+chevron_right
+bciempresas.autos 15,00 $ al año
+chevron_right
+bcipersonas.xyz 12,00 $ al año
+chevron_right
+bciempresas.xyz 12,00 $ al año
+chevron_right
+bciempresas.com 12,00 $ al año
+chevron_right
+bciempresas.co 30,00 $ al año
+chevron_right
+bancobci.moda 30,00 $ al año
+chevron_right
+bciseguros.xyz 12,00 $ al año
+chevron_right
+bciseguros.info 12,00 $ al año
+chevron_right
+bcitelefono.autos 15,00 $ al año
+chevron_right
+bcipersonas.com 12,00 $ al año
+chevron_right
+bciseguros.org 12,00 $ al año
+chevron_right
+bciempresas.info 12,00 $ al año
+chevron_right
+bciseguros.co 30,00 $ al año
+chevron_right
+bciempresas.org 12,00 $ al año
+chevron_right
+bciseguros.net 12,00 $ al año
+chevron_right
+bcipersonas.org 12,00 $ al año
+chevron_right
+bcipersonas.co 30,00 $ al año
+chevron_right
+bcipersonas.info 12,00 $ al año
+chevron_right
+bcipersonas.net 12,00 $ al año
+chevron_right
+bancobci.capital 50,00 $ al año
+chevron_right
+bciempresas.net 12,00 $ al año
+chevron_right
+En total hay 32 dominios asociados al dominio buscado
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 6411
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1664915843.131][WARNING]: This version of ChromeDriver has not been tested with Chrome version 106.
+oct. 04, 2022 5:37:23 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>
